@@ -1,0 +1,132 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1638" measuredH="1067" mockupW="1300" mockupH="1000">
+  <controls>
+    <control controlID="63" controlTypeID="__group__" x="338" y="67" w="1300" h="1000" measuredW="1300" measuredH="1000" zOrder="0" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="__group__" x="0" y="48" w="1300" h="871" measuredW="1300" measuredH="871" zOrder="0" locked="false" isInGroup="63">
+          <groupChildrenDescriptors>
+            <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="0" w="1300" h="133" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="0"/>
+            <control controlID="1" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="763" w="1300" h="108" measuredW="100" measuredH="70" zOrder="1" locked="false" isInGroup="0"/>
+            <control controlID="2" controlTypeID="com.balsamiq.mockups::LinkBar" x="80" y="806" w="-1" h="-1" measuredW="343" measuredH="19" zOrder="2" locked="false" isInGroup="0">
+              <controlProperties>
+                <borderColor>16777215</borderColor>
+                <text>About%20us%2C%20Aviso%20de%20privacidad%2C%20Terminos%20y%20condiciones</text>
+              </controlProperties>
+            </control>
+            <control controlID="3" controlTypeID="com.balsamiq.mockups::Icon" x="1028" y="806" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="3" locked="false" isInGroup="0">
+              <controlProperties>
+                <borderStyle>square</borderStyle>
+                <color>2848996</color>
+                <icon>FacebookIcon%7Csmall</icon>
+              </controlProperties>
+            </control>
+            <control controlID="4" controlTypeID="com.balsamiq.mockups::Icon" x="1096" y="806" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="4" locked="false" isInGroup="0">
+              <controlProperties>
+                <borderStyle>square</borderStyle>
+                <color>2848996</color>
+                <icon>TwitterIcon%7Csmall</icon>
+              </controlProperties>
+            </control>
+            <control controlID="5" controlTypeID="com.balsamiq.mockups::Icon" x="1164" y="806" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="5" locked="false" isInGroup="0">
+              <controlProperties>
+                <borderStyle>square</borderStyle>
+                <color>2848996</color>
+                <icon>GoogleIcon%7Csmall</icon>
+              </controlProperties>
+            </control>
+            <control controlID="6" controlTypeID="com.balsamiq.mockups::TextArea" x="0" y="133" w="1300" h="641" measuredW="200" measuredH="140" zOrder="6" locked="false" isInGroup="0">
+              <controlProperties>
+                <text>%20%0A%20%0A%20%0A%20%0A%20%0ALa%20primera%20vez%20que%20hicimos%20esta%20lista%20llev%E1bamos%20poco%20camino%20recorrido.%20Cada%20cierto%20tiempo%2C%20volvemos%20a%20consultar%20la%20lista%20para%20comprobar%20que%20no%20hemos%20dejado%20de%20cumplir%20ninguno%20de%20los%20puntos.%20Damos%20nuestra%20palabra%20de%20que%20as%ED%20seguir%E1%20sie%0A%20%20%20%20Desde%20el%20principio%2C%20nuestros%20esfuerzos%20se%20han%20centrado%20en%20proporcionar%20la%20mejor%20experiencia%20posible%20a%20los%20usuarios.%20Cuando%20dise%F1amos%20un%20nuevo%20navegador%20de%20Internet%20o%20modificamos%20el%20aspecto%20de%20la%20p%E1gina%20principal%2C%20lo%20m%E1s%20importante%20es%20asegurarnos%20de%20que%20todo%20el%20trabajo%20sea%20%FAtil%20para%20nuestros%20usuarios%2C%20por%20encima%20de%20nuestros%20propios%20beneficios%20u%20objetivos%20internos.%20La%20interfaz%20de%20nuestra%20p%E1gina%20principal%20es%20clara%20y%20sencilla%2C%20lo%20que%20facilita%20que%20las%20p%E1ginas%20se%20carguen%20inmediatamente.%20Los%20resultados%20de%20b%FAsqueda%20no%20se%20alteran%20nunca%20a%20cambio%20de%20retribuciones%20econ%F3micas%2C%20y%20la%20publicidad%20no%20solo%20se%20marca%20claramente%20como%20tal%2C%20sino%20que%20ofrece%20contenido%20relevante%20y%20no%20distrae%20a%20los%20usuarios.%20Adem%E1s%2C%20siempre%20que%20desarrollamos%20nuevas%20herramientas%20y%20aplicaciones%2C%20confiamos%20en%20que%20su%20funcionamiento%20sea%20tan%20bueno%20que%20nadie%20se%20plantee%20ning%FAn%20cambio%20de%20dise%F1o.%0A%20%20%20%20No%20hay%20nada%20mejor%20que%20el%20af%E1n%20de%20superaci%F3n%0A%20%0A%20%20%20%20Disponemos%20de%20uno%20de%20los%20grupos%20de%20investigaci%F3n%20m%E1s%20grandes%20del%20mundo%20que%20se%20dedica%20exclusivamente%20a%20resolver%20problemas%20de%20b%FAsqueda%2C%20as%ED%20que%20sabemos%20lo%20que%20hacemos%20bien%20y%20c%F3mo%20podemos%20mejorarlo.%20A%20trav%E9s%20de%20nuestros%20continuos%20esfuerzos%20por%20resolver%20problemas%20dif%EDciles%2C%20hemos%20conseguido%20solucionar%20cuestiones%20complejas%20e%20incorporar%20continuas%20mejoras%20a%20un%20servicio%20que%20ya%20ha%20convertido%20la%20b%FAsqueda%20de%20informaci%F3n%20en%20una%20experiencia%20r%E1pida%20y%20fluida%20para%20millones%20de%20personas.%20Nuestro%20af%E1n%20por%20mejorar%20la%20experiencia%20de%20b%FAsqueda%20nos%20ayuda%20a%20aplicar%20los%20conceptos%20que%20hemos%20aprendido%20a%20nuevos%20productos%2C%20como%20Gmail%20y%20Google%20Maps.%20Nuestro%20deseo%20es%20trasladar%20el%20poder%20de%20la%20b%FAsqueda%20a%20%E1reas%20sin%20explorar%20y%20facilitar%20a%20los%20usuarios%20tanto%20el%20acceso%20a%20una%20mayor%20cantidad%20de%20informaci%F3n%20en%20continua%20expansi%F3n%20como%20la%20utilizaci%F3n%20de%20esa%20informaci%F3n%20en%20su%20vida%20cotidiana.%0A%20%20%20%20Es%20mejor%20ser%20r%E1pido%20que%20lento%0A%20%0A%20%0A%20%0Ate%20puede%20proporcionar%20informaci%F3n%20%FAtil%20en%20los%20casos%20en%20que%20est%E9%20relacionada%20con%20los%20resultados%20que%20el%20usuario%20espera%20obtener%2C%20por%20lo%20que%20es%20posible%20que%20no%20aparezca%20ning%FAn%20tipo%20de%20anuncio%20al%20realizar%20determinadas%20b%FAsquedas.</text>
+              </controlProperties>
+            </control>
+            <control controlID="7" controlTypeID="com.balsamiq.mockups::Title" x="35" y="150" w="955" h="-1" measuredW="407" measuredH="43" zOrder="7" locked="false" isInGroup="0">
+              <controlProperties>
+                <text>Preguntas%20Frecuentes</text>
+              </controlProperties>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+        <control controlID="1" controlTypeID="__group__" x="0" y="0" w="1300" h="184" measuredW="1300" measuredH="184" zOrder="1" locked="false" isInGroup="63">
+          <groupChildrenDescriptors>
+            <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="0" w="1300" h="184" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="1">
+              <controlProperties>
+                <borderColor>545684</borderColor>
+                <borderStyle>none</borderStyle>
+                <color>545684</color>
+              </controlProperties>
+            </control>
+            <control controlID="1" controlTypeID="com.balsamiq.mockups::Image" x="60" y="37" w="426" h="108" measuredW="77" measuredH="79" zOrder="1" locked="false" isInGroup="1">
+              <controlProperties>
+                <href>quiniela%20principal%20inicio%26bm%3Bquiniela%20principal%20inicio.bmml%26bm%3Bquiniela%20principal%20inicio.bmml%26bm%3Bquiniela%20principal%20inicio.bmml</href>
+                <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2260%2C37%2C486%2C145%22%20href%3D%22quiniela%2520principal%2520inicio.bmml%22%20alt%3D%22quiniela%20principal%20inicio%22%20id%3D%221%22/%3E</map>
+                <text/>
+              </controlProperties>
+            </control>
+            <control controlID="2" controlTypeID="com.balsamiq.mockups::IconLabel" x="630" y="41" w="86" h="-1" measuredW="58" measuredH="63" zOrder="2" locked="false" isInGroup="1">
+              <controlProperties>
+                <bold>true</bold>
+                <borderStyle>none</borderStyle>
+                <color>0</color>
+                <href>Mis%20Quinielas%26bm%3BMis%20Quinielas.bmml%26bm%3BMis%20Quinielas.bmml%26bm%3BMis%20Quinielas.bmml</href>
+                <icon>ListIcon%7Clarge</icon>
+                <labelPosition>bottom</labelPosition>
+                <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22630%2C41%2C716%2C104%22%20href%3D%22Mis%2520Quinielas.bmml%22%20alt%3D%22Mis%20Quinielas%22%20id%3D%222%22/%3E</map>
+                <state>up</state>
+                <text>Quinielas</text>
+                <underline>false</underline>
+              </controlProperties>
+            </control>
+            <control controlID="3" controlTypeID="com.balsamiq.mockups::IconLabel" x="821" y="41" w="110" h="-1" measuredW="74" measuredH="63" zOrder="3" locked="false" isInGroup="1">
+              <controlProperties>
+                <href>Estadisticas%26bm%3BEstadisticas.bmml%26bm%3BEstadisticas.bmml%26bm%3BEstadisticas.bmml</href>
+                <icon>BulletsIcon%7Clarge</icon>
+                <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22821%2C41%2C931%2C104%22%20href%3D%22Estadisticas.bmml%22%20alt%3D%22Estadisticas%22%20id%3D%223%22/%3E</map>
+                <text>Estadisticas</text>
+              </controlProperties>
+            </control>
+            <control controlID="4" controlTypeID="com.balsamiq.mockups::IconLabel" x="1046" y="41" w="79" h="-1" measuredW="53" measuredH="63" zOrder="4" locked="false" isInGroup="1">
+              <controlProperties>
+                <href>PagFAQ%26bm%3BPagFAQ.bmml%26bm%3BPagFAQ.bmml%26bm%3BPagFAQ.bmml</href>
+                <icon>CheckMarkIcon%7Clarge</icon>
+                <map>%3Carea%20shape%3D%22rect%22%20coords%3D%221046%2C41%2C1125%2C104%22%20href%3D%22PagFAQ.bmml%22%20alt%3D%22PagFAQ%22%20id%3D%224%22/%3E</map>
+                <text>Nosotros</text>
+              </controlProperties>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+        <control controlID="2" controlTypeID="__group__" x="0" y="816" w="1300" h="184" measuredW="1300" measuredH="184" zOrder="2" locked="false" isInGroup="63">
+          <groupChildrenDescriptors>
+            <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="0" w="1300" h="184" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="2">
+              <controlProperties>
+                <borderColor>545684</borderColor>
+                <color>545684</color>
+              </controlProperties>
+            </control>
+            <control controlID="1" controlTypeID="com.balsamiq.mockups::RoundButton" x="944" y="106" w="48" h="44" measuredW="32" measuredH="32" zOrder="1" locked="false" isInGroup="2">
+              <controlProperties>
+                <icon>FacebookIcon%7Csmall</icon>
+                <text/>
+              </controlProperties>
+            </control>
+            <control controlID="2" controlTypeID="com.balsamiq.mockups::RoundButton" x="1015" y="106" w="48" h="44" measuredW="32" measuredH="32" zOrder="2" locked="false" isInGroup="2">
+              <controlProperties>
+                <icon>TwitterIcon%7Csmall</icon>
+                <text/>
+              </controlProperties>
+            </control>
+            <control controlID="3" controlTypeID="com.balsamiq.mockups::SubTitle" x="306" y="118" w="351" h="-1" measuredW="235" measuredH="17" zOrder="3" locked="false" isInGroup="2">
+              <controlProperties>
+                <size>14</size>
+                <text>QuinielasGol%20-%20Copyright2014%20Ver.%201.0</text>
+              </controlProperties>
+            </control>
+            <control controlID="4" controlTypeID="com.balsamiq.mockups::Image" x="55" y="22" w="115" h="109" measuredW="77" measuredH="79" zOrder="4" locked="false" isInGroup="2">
+              <controlProperties>
+                <text/>
+              </controlProperties>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+  </controls>
+</mockup>
