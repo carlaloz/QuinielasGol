@@ -5,7 +5,7 @@ body{
  } 
 
  #container{ 
-     width: 980px; 
+    width: 980px; 
  	margin: 0 auto; /* Margin se define mediante cuatro puntos: top(arriba), right(derecha), bottom(abajo), left(izquierda). Se declaran en ese orden para establecer margenes distintos para cada lado, en el caso de usar sólo dos valores se considera el primer valor para top-bottom y el segundo para right-left. En el caso de un valor único se considera para los cuatro lados. */ 
  } 
 
@@ -75,117 +75,53 @@ header{
 footer 
 {
     
-    margin-top: 50px;
+    margin-top: 30px;
     width: 980px;
+    height: 200px;
     background-color: #1A1A1A;
     border-radius: 10px ;
     position: absolute;
     font-size: 16px; 
     font-family: 'Calibri'; 
-
-    
-
 }
+
 footer .pie
 {
    display:inline-block;
-    width: 300px;
-    padding-top: 10px;
-    padding-left: 10px;
-    padding-right: 10px;
-    vertical-align: top;
+   width: 300px;
+   height: 200px;
+   text-align: center;
+    padding: 5px;   
     }
- 	
-footer .pie h3
-{
-    color: #fff;
-    font-size: 22px;
+footer .pie .headerpie{
+    vertical-align: top;
+    color: #9fee00;
+    font-size: 26px;
     text-align:center;
-    
-    
- 	 }
+} 	
 
 
-
-footer .pie p 
+footer .pie #contenidopie
 {
-
+    padding: 5px;
     font-size: 14px;
     color: #fff;
-    text-align:justify;
-    padding-top: 5px; 
-    margin: 0;
+    text-align: justify;
  	 }
 
-footer .derechos{
-    vertical-align: bottom;    /* NO FUNCIONA!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!*/
-} 	 
+footer .pie #contenidopie #social div{
+    display: inline-block;
+    padding: 10px;
+}
 
+footer .pie #contenidopie #cajacontac div{
+    display: inline-block;
+    padding: 8px;
+    text-align: right;
+    margin-right: 5px;
+}
 
-footer .pie #social
-{
-    padding-top: 15px;
-    padding-right: 5px;
-    text-align:center;
-    display:inline-block;
+footer .pie #contenidopie #fle {
+    text-align: right;
+}
 
-    }
-
-footer .pie #social a img
-{
-    text-align:right;
-    }
-    
-    
-
-footer .pie #contact 
-{
-    height: 220px; 
-    width: 220px;
-    
-    }
-    
- footer .pie #contact   #incontact
- {
-     padding-top: 15px;
-     }
-
-footer .pie #contact #incontact #fle
-{
-padding-top: 5px;
-    text-align:right;
-    }
-
-
-
-footer .pie #contact #incontact .cajacontac
-{
-    padding-top: 10px; 
-    }
-
-footer .pie #contact #incontact .cajacontac p
-{
-    display:inline-block;
-    color: White;
-    font-size: 14px; 
-    font-family: 'Calibri';
-    width:55px;
-    }
-    
-footer .pie #contact #incontact .cajacontac div
-{
-        text-align:right;
-        display:inline-block;
-        vertical-align: top;
-        margin-right: 5px;
-    }
-
-footer .pie #contact #incontact .cajacontac div input
-{
-    
-    width:150px;
-    height:25px;
-    border: 1.5px solid #62BECD ;
-
-    }
-    
