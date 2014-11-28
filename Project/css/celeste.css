@@ -16,6 +16,7 @@ header{
     font-family: 'Calibri'; 
     background-color: #1A1A1A;
     border-radius: 10px ;
+    margin-bottom: 10px; 
 }
 
 #logotipo{
@@ -75,9 +76,9 @@ header{
 footer 
 {
     
-    margin-top: 30px;
+    margin-top: 10px;
     width: 980px;
-    height: 200px;
+    height: 250px;
     background-color: #1A1A1A;
     border-radius: 10px ;
     position: absolute;
@@ -88,40 +89,40 @@ footer
 footer .pie
 {
    display:inline-block;
+   vertical-align: top;
    width: 300px;
-   height: 200px;
+   height: 230px;
    text-align: center;
-    padding: 5px;   
-    }
+   padding: 5px;    
+}
+
+
 footer .pie .headerpie{
     vertical-align: top;
     color: #9fee00;
-    font-size: 26px;
+    font-size: 22px;
     text-align:center;
 } 	
 
 
-footer .pie #contenidopie
-{
-    padding: 5px;
+footer .pie .contenidopie p{
+    text-align: center;
+    margin: 4px;
+    padding: 2px;
     font-size: 14px;
-    color: #fff;
-    text-align: justify;
- 	 }
-
-footer .pie #contenidopie #social div{
-    display: inline-block;
-    padding: 10px;
+    color: white;
 }
 
-footer .pie #contenidopie #cajacontac div{
+footer .pie .contenidopie #social {
+    margin-top: 25px;
+    margin-left: 10px;
     display: inline-block;
-    padding: 8px;
-    text-align: right;
-    margin-right: 5px;
 }
 
-footer .pie #contenidopie #fle {
+footer .pie .contenidopie #cajacontac div p {
+    text-align: left;
+}
+footer .pie .contenidopie #fle {
     text-align: right;
 }
 
