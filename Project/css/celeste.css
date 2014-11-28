@@ -126,3 +126,76 @@ footer .pie .contenidopie #fle {
     text-align: right;
 }
 
+
+#cuerpo{
+    font-family: "Bookman Old Style";
+    background-color: #353636;
+    border-radius: 10px;
+    text-align: justify;
+    color: #fff;
+    font-size: 16px;
+    }
+#cuerpo h1{
+    margin: 15px;
+    padding: 15px;
+}
+
+#cuerpo #aboutus div h2{
+    color: #009999;
+    font-size: 24px;
+    font-style: bold;
+    padding: 15px;
+    text-align: left;
+}
+ 
+
+#cuerpo #aboutus div p{
+    padding-left: 15px;
+    padding-top: 5px;
+    padding-right: 15px;
+}
+
+ #cuerpo #imgaboutus{
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+ }
+
+ #cuerpo .pronostico div{
+    width: 45px;
+    height: 45px;
+    border-radius: 20px;
+    display: inline-block;
+    background-color: #9FEE00;
+    padding: 15px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+ }
+
+
+ #cuerpo .pronostico {
+    text-align: center;
+ }
+
+ #cuerpo .botones{
+    margin:10px;
+    padding: 10px;
+   text-align: center;
+ }
+
+ #cuerpo .pronostico #vs{
+    width: 30px;
+    height: 30px;
+    background: #46B2B2;
+ }
+
+ #cuerpo .botones button{
+    background-color: #009E00 ;    
+    border-color: #007C00;
+    color: #fff;
+
+ }
+
+
+
+ 
