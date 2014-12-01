@@ -1,0 +1,251 @@
+body{ 
+ 	font-size: 18px; 
+ 	font-family: 'Calibri'; 
+ 	background-color: #212322; 
+ } 
+
+ #container{ 
+    width: 980px; 
+ 	margin: 0 auto; /* Margin se define mediante cuatro puntos: top(arriba), right(derecha), bottom(abajo), left(izquierda). Se declaran en ese orden para establecer margenes distintos para cada lado, en el caso de usar sólo dos valores se considera el primer valor para top-bottom y el segundo para right-left. En el caso de un valor único se considera para los cuatro lados. */ 
+ } 
+
+header{
+    width: 980px;
+    height:180px;
+    font-size: 16px; 
+    font-family: 'Calibri'; 
+    background-color: #1A1A1A;
+    border-radius: 10px ;
+    margin-bottom: 10px; 
+}
+
+#logotipo{
+    position:absolute;
+    left:50%;
+    width:188px;
+    height:169px;
+    margin-left:-450px;
+    margin-top:6px;
+    border:none
+}
+
+.float_header{ 
+ 	display: inline-block; 
+ 	 
+ } 
+ header #block_menu{ 
+ 	width: 980px; 
+ 	text-align: right;
+    padding-right: 5px; 
+    padding-top: 15px;
+ } 
+ 
+  
+ header #block_menu nav li{ 
+ 	display: inline-block; 
+ 	padding: 1px 3px;  
+ } 
+
+ header nav{ 
+ 	margin-top: 10px; 
+ } 
+
+ header nav ul {
+    list-style: outside none none;
+ }
+
+ header nav ul li {
+    float: right;
+    width: 110px;
+    height: 100px;
+    margin-right: 30px;
+    text-align: center;
+ }
+ 
+ header nav li a{ 
+ 	color: #aaaaaa; 
+ 	text-decoration: none; 
+ } 
+ 
+ header nav li a:hover{ 
+ 	color: #9fee00; 
+ 	text-decoration: none; 
+ } 
+ 
+ #estadisticas{
+    background: #D0D9D6;    
+    border-radius: 10px;
+    text-align: center;
+ }
+
+
+
+#estadisticas table{
+    border-radius: 10px;
+    /*background-color: #007C00;*/
+    border: double;
+    font-family: Verdana,  sans-serif;
+    font-size:14px;
+    text-align: left;
+    width: 250px;
+    font-size: 14px;
+    font-weight:bold;
+    background-color: #fdfdf1;
+    background-repeat: repeat-x;
+    color: #249F9F;
+    font-family:  Arial;
+    margin: 0 auto;
+    margin-top: 10px;
+}
+#estadisticas th{
+    border: dotted;
+    font-size: 14px;
+    font-weight: bold;
+    background-color: #f2fdf2;
+    background-repeat: repeat-x;
+    color: #990044;
+    font-family:  Arial;
+    text-align:center;
+}
+
+#estadisticas td{
+    padding: 12px;
+    border: dotted;
+    border-bottom-width: 2px;
+    border-bottom-style: dotted;
+    border-bottom-color: #46B2B2;
+}
+
+#estadisticas h1{
+    color: black;
+    margin-left: 300px;
+    font-size: 60px;
+    padding-left: 100px;
+    padding-right: 100px;
+    text-align: center;
+    width: 100px;
+    height: 100px;
+}
+
+#estadisticas h3{
+    color: black;
+    margin-left: 100px;
+    font-size: 60px;
+    padding-left: 100px;
+    padding-right: 100px;
+    text-align: center;
+    width: 600px;
+    height: 100px;
+}
+
+#estadisticas a{
+    color: #FF0000;
+    border: 2px gray dashed;
+    padding: 5px 20px 5px 20px;
+    font-family: arial;
+    font-size: 20px;
+    text-decoration: none;
+    background-image: url("images/liga.jpg");
+    border-radius: 15px;
+}
+
+#estadisticas a.button_azul:hover{
+    font-style: italic;
+    box-shadow: 0px 0px 5px 0px #000000;
+}
+
+#estadisticas a.button_azul:active{
+    color: #ffff99;
+    background-color: #ff0000;
+    box-shadow: 0px 0px 10px 0px #000000;
+}
+
+#estadisticas a.button_azul:visited{
+    background-position: 0px -26px;
+}
+
+.button{
+    color: #fff;
+    font-family: sans-serif;
+    font-size: 24px;
+    font-weight: bold;
+    text-transform: uppercase;
+
+    padding: 20px 40px;
+    margin-right: 30px;
+    cursor: pointer;
+    border: 0;
+    border-radius: 50px;
+
+    transition: all 0.20s linear;
+    -webkit-transition: all 0.20s linear;
+    -moz-transition: all 0.20s linear;
+    position: relative;
+    bottom: 0;
+}
+
+.button_azul{
+    box-shadow: 0px 5px 0 #0491a5;
+}
+
+.button:active{
+    bottom: -5px;
+}
+
+.button_azul{
+    box-shadow: 0 0 0 #0491a5, inset 0 0 5px rgba(0, 0, 0, 0.4);
+}
+
+footer 
+{
+    
+    margin-top: 10px;
+    width: 980px;
+    height: 250px;
+    background-color: #1A1A1A;
+    border-radius: 10px ;
+    position: absolute;
+    font-size: 16px; 
+    font-family: 'Calibri'; 
+}
+
+footer .pie
+{
+   display:inline-block;
+   vertical-align: top;
+   width: 300px;
+   height: 230px;
+   text-align: center;
+   padding: 5px;    
+}
+
+
+footer .pie .headerpie{
+    vertical-align: top;
+    color: #9fee00;
+    font-size: 22px;
+    text-align:center;
+} 	
+
+
+footer .pie .contenidopie p{
+    text-align: center;
+    margin: 4px;
+    padding: 2px;
+    font-size: 14px;
+    color: white;
+}
+
+footer .pie .contenidopie #social {
+    margin-top: 25px;
+    margin-left: 10px;
+    display: inline-block;
+}
+
+footer .pie .contenidopie #cajacontac div p {
+    text-align: left;
+}
+footer .pie .contenidopie #fle {
+    text-align: right;
+}
+
