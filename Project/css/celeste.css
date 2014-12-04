@@ -1,0 +1,243 @@
+body{ 
+ 	font-size: 18px; 
+ 	font-family: 'Calibri'; 
+ 	background-color: #212322; 
+ } 
+
+ #container{ 
+    width: 980px; 
+ 	margin: 0 auto; /* Margin se define mediante cuatro puntos: top(arriba), right(derecha), bottom(abajo), left(izquierda). Se declaran en ese orden para establecer margenes distintos para cada lado, en el caso de usar sólo dos valores se considera el primer valor para top-bottom y el segundo para right-left. En el caso de un valor único se considera para los cuatro lados. */ 
+ } 
+
+header{
+    width: 980px;
+    height:180px;
+    font-size: 16px; 
+    font-family: 'Calibri'; 
+    background-color: #1A1A1A;
+    border-radius: 10px ;
+    margin-bottom: 10px; 
+}
+
+#logotipo{
+    position:absolute;
+    left:50%;
+    width:188px;
+    height:169px;
+    margin-left:-450px;
+    margin-top:6px;
+    border:none
+}
+
+.float_header{ 
+ 	display: inline-block; 
+ 	 
+ } 
+ header #block_menu{ 
+ 	width: 980px; 
+ 	text-align: right;
+    padding-right: 5px; 
+    padding-top: 15px;
+ } 
+ 
+  
+ header #block_menu nav li{ 
+ 	display: inline-block; 
+ 	padding: 1px 3px;  
+ } 
+
+ header nav{ 
+ 	margin-top: 10px; 
+ } 
+
+ header nav ul {
+    list-style: outside none none;
+ }
+
+ header nav ul li {
+    float: right;
+    width: 110px;
+    height: 100px;
+    margin-right: 30px;
+    text-align: center;
+ }
+ 
+ header nav li a{ 
+ 	color: #aaaaaa; 
+ 	text-decoration: none; 
+ } 
+ 
+ header nav li a:hover{ 
+ 	color: #9fee00; 
+ 	text-decoration: none; 
+ } 
+  div section article h1{
+    color: #9FEE00;
+    text-decoration:none;
+    font-size: 60px;
+    font-family: fantasy;
+    margin-top: 80px;
+    margin-left: 51px;
+    margin-bottom: 10px;
+ }
+  div section article h2{
+    color: #9FEE00;
+    text-decoration:none;
+    font-size: 70px;
+    font-family: fantasy;
+    margin-top: 20px;
+    margin-left: 97px;
+}
+
+div section article img{
+    position: static;
+    margin-left: 40px;
+}
+ 
+div section article h4{
+    margin-left: -385px;
+    font-size: 20px;
+    font-family: arial;
+    color: #009999;
+    text-align: center;
+}
+
+div section article h3{
+    margin-left: 175px;
+    font-size: 40px;
+    font-family: arial;
+    color: #00CC00;
+    margin-top: 10px;
+    margin-bottom: 70px;
+}
+aside section .registro #entrar #registrarse .cajaregis
+{
+    padding-top: 10px; 
+    }
+aside section .registro #entrar #registrarse .cajaregis p
+{
+    display:inline-block;
+    color: #009999;
+    font-size: 20px; 
+    font-family: 'Calibri';
+    width:55px;
+    margin-top: 20px;
+    }
+aside section .registro #entrar #registrarse .cajaregis div
+{
+        text-align:right;
+        display:inline-block;
+        vertical-align: top;
+        margin-right: 20px;
+        margin-left: 40px;
+        margin-top: 17px;
+    }
+aside section .registro #entrar #registrarse .cajaregis div input
+{
+    
+    width:230px;
+    height:40px;
+    border: 1.5px solid #62BECD ;
+    }
+aside section .registro h3
+{
+    color: #009999;
+    font-size: 40px;
+    display: inline-block;
+    text-align: center;
+     }
+aside section .registro h6{
+    color: #aaaaaa;
+    font-size: 15px;
+    text-align: center;
+    margin-top: 15px;
+}
+aside section .registro h6:hover{
+    color: #00CC00; 
+    text-decoration: none; 
+
+}
+aside section {
+    float: right;
+  margin-top: -500px;
+}
+ 
+section .preguntas h5{
+    color: #009999;
+    margin-top: 35px;
+    font-size: 25px;
+    font-family: 'Calibri';
+    text-align: left;
+}
+
+section .preguntas p{
+    color: #aaaaaa;
+    margin-top: 20px;
+    font-size: 20px;
+    font-family: 'Calibri';
+    margin-bottom: 25px;
+    text-align: left;
+
+}
+section .preguntas h2{
+    color: #00CC00;
+    margin-top: 25px;
+    font-size: 35px;
+    font-family: 'Calibri';
+    text-align: center;
+    margin-bottom: 25px;
+}
+
+footer 
+{
+    
+    margin-top: 10px;
+    width: 980px;
+    height: 250px;
+    background-color: #1A1A1A;
+    border-radius: 10px ;
+    position: absolute;
+    font-size: 16px; 
+    font-family: 'Calibri'; 
+}
+
+footer .pie
+{
+   display:inline-block;
+   vertical-align: top;
+   width: 300px;
+   height: 230px;
+   text-align: center;
+   padding: 5px;    
+}
+
+
+footer .pie .headerpie{
+    vertical-align: top;
+    color: #9fee00;
+    font-size: 22px;
+    text-align:center;
+} 	
+
+
+footer .pie .contenidopie p{
+    text-align: center;
+    margin: 4px;
+    padding: 2px;
+    font-size: 14px;
+    color: white;
+}
+
+footer .pie .contenidopie #social {
+    margin-top: 25px;
+    margin-left: 10px;
+    display: inline-block;
+}
+
+footer .pie .contenidopie #cajacontac div p {
+    text-align: left;
+}
+footer .pie .contenidopie #fle {
+    text-align: right;
+}
+
